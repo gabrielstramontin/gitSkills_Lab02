@@ -18,7 +18,7 @@ Here's a recap of all the tasks you've accomplished in your repository:
 4. Click the **Save** button.
 5. Wait about 30 seconds then refresh the page. When you see "Your site is published at ..." you can click on the link to see your published site.
 
-obs: For more informations, learn more about [Markdown](https://docs.github.com/github/writing-on-github).
+obs: For more information, learn the documentation: [Markdown](https://docs.github.com/github/writing-on-github).
 
 <footer>
 &copy; 2023 GitHub &bull; [MIT License](https://gh.io/mit)
