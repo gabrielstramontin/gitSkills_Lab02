@@ -1,0 +1,4 @@
+- [ ] Enable GitHub Copilot at Visual Studio Code
+- [ ] Update my Personal Portfolio with the README.md file
+- [ ] Share my new git skills with a friend
+- [ ] Schedule my GitHub Fundamentals Certification
