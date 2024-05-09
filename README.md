@@ -21,5 +21,5 @@ Here's a recap of all the tasks you've accomplished in your repository:
 obs: For more information, learn the documentation: [Markdown](https://docs.github.com/github/writing-on-github).
 
 <footer>
-&copy; 2023 GitHub &bull; [MIT License](https://gh.io/mit)
+&copy; 2024 GitHub &bull; [MIT License]
 </footer>
